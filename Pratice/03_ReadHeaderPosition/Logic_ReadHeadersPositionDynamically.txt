@@ -1,0 +1,5 @@
+
+Not null/Empty = That means it has some value
+Not String.IsNullOrEmpty(CurrentRow(0).ToString) = it has some value
+
+String.IsNullOrEmpty(CurrentRow(0).ToString) =dont Have value
